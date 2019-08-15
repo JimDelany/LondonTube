@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LondonTubeConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "5 \"East Ham\""
+    }
+  }
+}

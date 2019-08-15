@@ -1,0 +1,11 @@
+D:\LondonTubeConsole\LondonTubeConsole\bin\Debug\netcoreapp2.2\LondonTubeConsole.deps.json
+D:\LondonTubeConsole\LondonTubeConsole\bin\Debug\netcoreapp2.2\LondonTubeConsole.runtimeconfig.json
+D:\LondonTubeConsole\LondonTubeConsole\bin\Debug\netcoreapp2.2\LondonTubeConsole.runtimeconfig.dev.json
+D:\LondonTubeConsole\LondonTubeConsole\bin\Debug\netcoreapp2.2\LondonTubeConsole.dll
+D:\LondonTubeConsole\LondonTubeConsole\bin\Debug\netcoreapp2.2\LondonTubeConsole.pdb
+D:\LondonTubeConsole\LondonTubeConsole\obj\Debug\netcoreapp2.2\LondonTubeConsole.csproj.CoreCompileInputs.cache
+D:\LondonTubeConsole\LondonTubeConsole\obj\Debug\netcoreapp2.2\LondonTubeConsole.AssemblyInfoInputs.cache
+D:\LondonTubeConsole\LondonTubeConsole\obj\Debug\netcoreapp2.2\LondonTubeConsole.AssemblyInfo.cs
+D:\LondonTubeConsole\LondonTubeConsole\obj\Debug\netcoreapp2.2\LondonTubeConsole.dll
+D:\LondonTubeConsole\LondonTubeConsole\obj\Debug\netcoreapp2.2\LondonTubeConsole.pdb
+D:\LondonTubeConsole\LondonTubeConsole\obj\Debug\netcoreapp2.2\LondonTubeConsole.csprojAssemblyReference.cache
